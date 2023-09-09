@@ -1,0 +1,3 @@
+[submodule "ISLP_labs"]
+	path = ISLP_labs
+	url = https://github.com/intro-stat-learning/ISLP_labs

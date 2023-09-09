@@ -1,0 +1,6 @@
+jupyterlab
+-r ISLP_labs/requirements.txt
+plotly
+seaborn
+matplotlib
+RISE
