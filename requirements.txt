@@ -4,3 +4,9 @@ plotly
 seaborn
 matplotlib
 RISE
+numpy
+scipy
+pandas
+scikit-learn
+sympy
+statsmodels
