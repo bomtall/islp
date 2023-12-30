@@ -31,3 +31,4 @@ Book club for Introduction to Statistical Learning with applications in Python
   ```
   pip install -r requirements.txt
   ```
+  
