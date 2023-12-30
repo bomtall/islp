@@ -1,5 +1,9 @@
 # ISLP
-Book club for Introduction to Statistical Learning with applications in Python https://hastie.su.domains/ISLP/ISLP_website.pdf
+
+Book club for Introduction to Statistical Learning with applications in Python
+
+- View at https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html
+- Download at https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html
 
 ## Clone
 - `https`:
