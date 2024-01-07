@@ -1,0 +1,10 @@
+{
+    "latex-input.selector": [  
+        {
+        "scheme": "vscode-notebook-cell"
+        },
+        {
+        "scheme": "file"
+        }
+    ]
+}
