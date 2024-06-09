@@ -10,3 +10,4 @@ pandas
 scikit-learn
 sympy
 statsmodels
+jupyterlab-rise
